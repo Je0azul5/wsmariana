@@ -100,9 +100,6 @@ The website is fully responsive with breakpoints at:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👥 Author
-
-Mariana
 
 ## 📞 Contact
 
